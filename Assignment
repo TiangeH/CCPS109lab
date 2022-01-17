@@ -374,12 +374,6 @@ def first_preceded_by_smaller(items, k = 2):
                 return None  
 
 
-
-
-
-
-
-
 --------------------------------------------------------------
 def map_book(tokens):
     hash_map = []
@@ -401,23 +395,6 @@ def map_book(tokens):
         return None   
 tokens=['tom', 42, 'bob', 'bob', 99,
 'bob', 'tom', 'tom', 99]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     
     #fit_situation=None
